@@ -2,4 +2,3 @@
 - 👀 I’m interested in aws
 - 🌱 I’m currently learning GENAI
 - 💞️ I’m looking to collaborate on typescript
-- 📫 How to reach me dabitova@amazon.com
